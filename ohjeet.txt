@@ -1,0 +1,31 @@
+Hei käyttäjä.
+
+Kun avaat tiedoston, tulet näkymään, jossa on kuusi eri vaihtoehtoa.
+
+
+Painamalla 1 ohjelma kysyy kuinka monelle oppilaalle haluat lisata tiedot, ohjelma ottaa enintään kolmenkymmenen(30) oppilaan tiedot.
+Kun olet syöttänyt, kuinka monelle opiskelijalle haluat syöttää tiedot, ohjelma kysyy tiedot jokaiselle opiskelijalle yksi kerrallaan, ensin etunimi, sitten sukunimi.
+
+
+
+Painamalla 2 voit katsoa ohjelmaan syötetyt opiskelijoiden tiedot.
+Ohjelma kysyy oppilaan numeron (10 001 - 10 030), jonka arvosanat ohjelma näyttää.
+
+
+
+Painamalla 3 voit lisätä arvosanoja opiskelijoille.
+Ohjelma kysyy mihin tehtävään haluat lisätä arvosanan, sen jälkeen ohjelma näyttää kenelle olet antamassa arvosanan ja samalla kysyy minkä arvosanan haluat hänelle antaa.
+Kun olet syöttänyt arvosanan ohjelma kysyy haluatko antaa arvosanan myös toiseen tehtävään.
+
+
+
+Painamalla 4 Ohjelma näyttää kaikki opiskelijat ja jokaisen opiskelijan arvosanojen summan.
+
+
+
+Painamalla 6 Voit lisätä arvosanan yhdelle opiskelijalle, johonkin tiettyyn tehtävään.
+Ohjelma kysyy opiskelijan numeron, sen jälkeen tehtävä numeron, johon haluat arvosanan syöttää, jonka jälkeen arvosanan, jonka haluat antaa.
+
+
+
+Painamalla 5 Lopetat ohjelman.
